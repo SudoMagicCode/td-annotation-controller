@@ -1,6 +1,6 @@
 {
     "BUILD": "TRUE",
-    "TD_VERSION": "2023.12230",
+    "TD_VERSION": "2023.12370",
     "PROJECT_FILE": "./TouchDesigner/project.toe",
     "COMP_NAME": "AnnotationController",
     "BUILD_CONTENTS": "packageZip",
