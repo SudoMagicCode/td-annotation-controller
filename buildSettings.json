@@ -2,6 +2,7 @@
     "BUILD": "TRUE",
     "TD_VERSION": "2023.12230",
     "PROJECT_FILE": "./TouchDesigner/project.toe",
-    "REPO": "https://github.com/SudoMagicCode/td-annotation-controller",
-    "COMP_NAME": "AnnotationController"
+    "COMP_NAME": "AnnotationController",
+    "BUILD_CONTENTS": "packageZip",
+    "USE_TDM": false
 }
