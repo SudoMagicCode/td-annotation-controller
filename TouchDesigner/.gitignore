@@ -1,0 +1,6 @@
+
+scripts/__pycache__/
+scripts/td_builder/__pycache__/
+
+release/
+tdPackages/

@@ -1,4 +1,6 @@
-name: AT Annotation Controller
+name: TD Annotation Controller
 tdVersion: 2025.32280.Project
 tdPackages:
+    - package: github.com/SudoMagicCode/td-packager-comp
+      releaseTag: v0.2.1
 pythonRequirements: []
