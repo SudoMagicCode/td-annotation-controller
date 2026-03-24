@@ -1,6 +1,3 @@
+artifacts/
+TouchDesigner/tdPackages
 
-scripts/__pycache__/
-
-release/
-
-scripts/td_builder/__pycache__/
